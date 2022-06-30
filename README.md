@@ -1,2 +1,2 @@
 # Simulated-Annealing
-Hi, I made this project during 2 months of internship at C-DAC. The Instructor during the session was Jitesh Choudhary Sir (Director of Centre of Development for Advanced Computing). I got to learn a lot during these days and it was a great experience learning with C-DAC. Everything was explained from the very basics. I enjoyed these 2 months.
+Hi, This code is used to solve travelling salesman poblem by using simulated annealing. I am working on this project, this is not the final code. This is just a approach to the final project.
